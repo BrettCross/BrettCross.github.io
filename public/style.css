@@ -3,5 +3,18 @@
   font-family: 'Roboto Mono', monospace;
 }
 
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 75px;
+  font-weight: bold;
+}
+
+.gif {
+  display: block;
+  margin: 0 auto;
+}
 
 
