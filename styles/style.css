@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
+}
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 22px;
+  color: seashell;
+}
+
+/* Navigation Section */
+
+.navbar {
+  display: flex;
+  height: 69px;
+  border-bottom: 1px solid seashell;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  background-color: black;
+  opacity: 90%;
+}
+
+.navbar h1 {
+  margin-left: 10px;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.nav-link {
+  margin-right: 15px;
+  color: seashell;
+}
+
+.gif {
+  display: block;
+  margin: 0 auto;
+}
+
+
