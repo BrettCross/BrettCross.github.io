@@ -1,2 +1,2 @@
-# BrettCross.github.io
-my website portfolio
+# Website Portfolio - v1
+first iteration of [BrettCross.github.io](https://BrettCross.github.io) built with React.
