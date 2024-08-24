@@ -10,6 +10,7 @@ function App() {
     <main>
       <div className="text-gray-400 bg-gray-900 body-font">
         <About />
+        <Projects />
       </div>
     </main>
   );

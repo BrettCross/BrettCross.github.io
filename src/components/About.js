@@ -19,7 +19,10 @@ export default function About() {
             <br/>
             I am constantly learning and staying updated with the latest industry trends and advancements. 
             Whether it's exploring new programming languages or diving into emerging technologies, 
-            I am committed to expanding my knowledge and enhancing my skill set. I'm also an aspiring bug bounty hunter!
+            I am committed to expanding my knowledge and enhancing my skill set. 
+            Most recently, I obtained my VMware Certified Professional - Tanzu for Kubernetes Operations (VCP-TKO) certification!
+            <br />
+            I'm also an aspiring bug bounty hunter!
             <br/>
             <br/>
             When I'm not coding or smashing bugs, I enjoy spending time with family, watching sports or playing video games.
