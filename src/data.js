@@ -32,3 +32,13 @@ export const projects = [
     link: "https://pythonbootcamp.com",
   },
 ];
+
+export const skills = [
+  "JavaScript - Node.js, React, Next.js", 
+  "Python", 
+  "C#.NET - Unity Game Engine", 
+  "C/C++",
+  "SQL - MySQL, PostgreSQL", 
+  "AWS", 
+  "Kubernetes", 
+  "vSphere Tanzu"];
