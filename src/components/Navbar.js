@@ -9,12 +9,12 @@ export default function Navbar() {
             Brett Cross
           </a>
         </div>
-        <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-start">
-          <a href="#projects" className="mr-5 hover:text-white">
-            Projects
-          </a>
+        <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	pr-auto flex flex-wrap items-center text-base justify-end">
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
+          </a>
+          <a href="#projects" className="mr-5 hover:text-white">
+            Projects
           </a>
         </nav>
       </div>
