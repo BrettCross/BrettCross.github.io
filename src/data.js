@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Spider Game AI",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An artificial intelligence project where the spider tries to catch an ant before it moves off screen. This project uses blind search techniques like Breadth First and Depth First. It also uses and intelligent search technique, A*, with different distance heuristics. The project was developed in Python.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://BrettCross.github.io",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Connect Four AI",
+    subtitle: "Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An artificial intelligence project that controls both players playing classic game Connect Four. The game uses the minimax technique to determine the best move. The project was developed in Python.",
     image: "./project-2.gif",
-    link: "https://reedbarger.com",
+    link: "https://BrettCross.github.io",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "CUACS",
+    subtitle: "C++ (Qt Framework)",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Carleton University Animal Care System. This is a group project developed by me and three other students. The program determines optimal matches for the animals currently in the shelter and clients looking to adopt them. The project was developed in C++ using the Qt Framework.",
     image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+    link: "https://BrettCross.github.io",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "2D Platformer",
+    subtitle: "C# - Unity Game Engine",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Implemented basic player movement (horizontal movement, jump height variability, gradual speed increase), collision detection, moving platforms and simple enemy AI. It is being developed using the Unity Engine and C#.",
     image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+    link: "https://BrettCross.github.io",
   },
 ];
 
